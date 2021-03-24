@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Este programa lo que hace es contar números en una cadena de texto y tambi´ne otros caracteres distintos.
+// Este programa lo que hace es contar nÃºmeros en una cadena de texto y tambiÃ©n otros caracteres distintos.
 
 int c, i, nwhite, nother;
 int ndigit[10];
